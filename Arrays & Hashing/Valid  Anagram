@@ -1,0 +1,18 @@
+import java.util.Arrays;
+
+class Solution {
+    public boolean isAnagram(String s, String t) {
+        // 1. Length check
+        if (s.length() != t.length()) {
+            return false;
+        }
+        // 2. Convert to char arrays
+        char[] cs = s.toCharArray();
+        char[] ct = t.toCharArray();
+        // 3. Sort the character arrays
+        Arrays.sort(cs);
+        Arrays.sort(ct);
+        // 4. Compare sorted arrays for equality
+        return Arrays.equals(cs, ct);
+    }
+}
