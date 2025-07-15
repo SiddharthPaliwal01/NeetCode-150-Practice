@@ -7,3 +7,4 @@ My journey solving [Neetcode 150](https://neetcode.io/practice) using Java.
 ### Arrays & Hashing
 - [x] Two Sum
 - [x] Contains Duplicate
+- [x] Valid Anagram
