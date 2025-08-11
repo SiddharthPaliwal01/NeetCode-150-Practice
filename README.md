@@ -22,4 +22,3 @@ My journey solving [Neetcode 150](https://neetcode.io/practice) using Java.
 - [x] Container With Most Water
 
 ### Sliding Window
-- [x] Best Time to Buy and Sell Stock
