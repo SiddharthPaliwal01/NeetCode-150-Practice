@@ -21,4 +21,3 @@ My journey solving [Neetcode 150](https://neetcode.io/practice) using Java.
 - [x] 3Sum
 - [x] Container With Most Water
 
-### Sliding Window
